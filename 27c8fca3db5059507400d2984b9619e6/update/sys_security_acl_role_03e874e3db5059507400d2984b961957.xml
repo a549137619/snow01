@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 03:17:21</sys_created_on>
+        <sys_id>03e874e3db5059507400d2984b961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_778186_snow01_table01.x_778186_snow01.table01_user</sys_name>
+        <sys_package display_value="snow01" source="x_778186_snow01">27c8fca3db5059507400d2984b9619e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snow01">27c8fca3db5059507400d2984b9619e6</sys_scope>
+        <sys_security_acl display_value="x_778186_snow01_table01">07e874e3db5059507400d2984b961954</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_03e874e3db5059507400d2984b961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 03:17:21</sys_updated_on>
+        <sys_user_role display_value="x_778186_snow01.table01_user" name="x_778186_snow01.table01_user">36e874e3db5059507400d2984b961906</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
